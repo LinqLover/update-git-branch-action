@@ -13,10 +13,7 @@ inputs:
     required: true
 runs:
   using: node12
-  env:
-    NODE_OPTIONS: '--require "./.pnp.js"'
   main: lib/main.js
-  post: lib/main.js
 branding:
   icon: 'fast-forward'
   color: 'red'
