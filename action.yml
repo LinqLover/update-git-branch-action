@@ -1,4 +1,4 @@
-name: 'Update git branch'
+name: 'LinqLover/Update git branch'
 description: 'Update a branch to a specific ref'
 author: 'Marc-Antoine Fernandes'
 inputs:
